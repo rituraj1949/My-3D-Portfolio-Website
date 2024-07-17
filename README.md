@@ -758,7 +758,16 @@ module.exports = {
 Models and Assets used in the project can be found [here](https://drive.google.com/drive/folders/1KVU8iaH0E_JFtShNiR3BgCSA3pawXY4Z)
 
 ## <a name="more">🚀 More</a>
-
+<div>
+                Full Stack MERN Developer, <br />
+                <br />
+                <br />
+                + (91) 9060736005, 6209581793 ,<br />
+                rituraj1949@gmail.com ,
+                <br />
+                <br />
+                <br /> Noida Electronic City , Sector-62 , <br />
+                Noida{" "}
 
 
 #
