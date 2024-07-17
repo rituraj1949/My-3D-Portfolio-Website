@@ -707,14 +707,13 @@ Models and Assets used in the project can be found [here](https://drive.google.c
 ## <a name="more">🚀 More</a>
 <div>           Ritu Raj
 
-                Full Stack MERN Developer, <br />
-                <br />
-                <br />
-                + (91) 9060736005, 6209581793 ,<br />
+                Full Stack MERN Developer, 
+                
+                
+                + (91) 9060736005, 6209581793 
                 rituraj1949@gmail.com ,
-                <br />
-                <br />
-                <br /> Noida Electronic City , Sector-62 , <br />
+              
+                Noida Electronic City , Sector-62 , 
                 Noida
 
 
